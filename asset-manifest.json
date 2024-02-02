@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Affworld_2/static/css/main.19b22170.css",
+    "main.js": "/Affworld_2/static/js/main.39c0b320.js",
+    "static/media/movie.jpg": "/Affworld_2/static/media/movie.c484aab4ffde7f8e9a4f.jpg",
+    "static/media/logo1-removebg-preview.png": "/Affworld_2/static/media/logo1-removebg-preview.8c96913f5cb968e4c182.png",
+    "index.html": "/Affworld_2/index.html",
+    "main.19b22170.css.map": "/Affworld_2/static/css/main.19b22170.css.map",
+    "main.39c0b320.js.map": "/Affworld_2/static/js/main.39c0b320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b22170.css",
+    "static/js/main.39c0b320.js"
+  ]
+}
