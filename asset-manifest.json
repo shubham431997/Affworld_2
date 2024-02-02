@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Affworld_2/Home/static/css/main.cce1599d.css",
-    "main.js": "/Affworld_2/Home/static/js/main.6af03958.js",
+    "main.js": "/Affworld_2/Home/static/js/main.9e363235.js",
     "static/media/movie.jpg": "/Affworld_2/Home/static/media/movie.c484aab4ffde7f8e9a4f.jpg",
     "static/media/logo1-removebg-preview.png": "/Affworld_2/Home/static/media/logo1-removebg-preview.8c96913f5cb968e4c182.png",
     "index.html": "/Affworld_2/Home/index.html",
     "main.cce1599d.css.map": "/Affworld_2/Home/static/css/main.cce1599d.css.map",
-    "main.6af03958.js.map": "/Affworld_2/Home/static/js/main.6af03958.js.map"
+    "main.9e363235.js.map": "/Affworld_2/Home/static/js/main.9e363235.js.map"
   },
   "entrypoints": [
     "static/css/main.cce1599d.css",
-    "static/js/main.6af03958.js"
+    "static/js/main.9e363235.js"
   ]
 }
