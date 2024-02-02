@@ -1,0 +1,80 @@
+
+.home-container {
+  margin: 0 auto;
+}
+
+
+.banner {
+  position: relative;
+  height: 600px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../movie.jpg');
+  background-position: center;
+  background-size: cover; 
+  text-align: center;
+  position: relative;
+}
+
+.banner:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6); 
+}
+
+.banner-content {
+  z-index: 1; 
+}
+
+.banner-title {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.banner-description {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); 
+}
+
+.banner:hover .banner-title {
+  color: red;
+}
+
+
+
+.banner-content {
+  text-align: center;
+}
+
+.banner-title {
+  font-size: 70px;
+  margin-bottom: 10px;
+  color: #f5f1f2; 
+}
+
+.banner-description {
+  font-size: 50px;
+  color:white;
+}
+
+.recommended {
+  margin-top: 40px;
+}
+
+.recommended-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.recommended-content {
+  display: flex;
+}
